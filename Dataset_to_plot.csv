@@ -1,0 +1,154 @@
+,index,Movie,P_Genre,S_Genre,T_Genre,Cluster_Id
+0,0,the lord of the rings: the return of the king,7,3,5,5
+1,1,inception,7,3,12,0
+2,2,the lord of the rings: the two towers,7,3,5,5
+3,3,the lord of the rings: the fellowship of the ring,7,3,5,5
+4,4,the empire strikes back,7,3,13,0
+5,5,star wars,7,3,13,0
+6,6,seppuku,7,4,0,14
+7,7,gladiator,7,3,5,5
+8,8,léon,7,5,5,9
+9,9,spider-man: into the spider-verse,3,8,4,4
+10,10,avengers: endgame,7,3,5,5
+11,11,avengers: infinity war,7,3,12,0
+12,12,oldeuboi,7,4,0,14
+13,13,aliens,7,3,12,0
+14,14,dangal,7,7,5,6
+15,15,spider-man: no way home,7,3,13,0
+16,16,heat,7,5,5,9
+17,17,star wars: episode vi - return of the jedi,7,3,13,0
+18,18,north by northwest,7,3,0,14
+19,19,1917,7,4,14,0
+20,20,everything everywhere all at once,7,3,10,10
+21,21,warrior,7,4,7,2
+22,22,v for vendetta,7,4,12,0
+23,23,batman begins,7,5,5,9
+24,24,kill bill: vol. 1,7,5,5,9
+25,25,"lock, stock and two smoking barrels",7,6,8,19
+26,26,jurassic park,7,3,12,0
+27,27,ran,7,4,14,0
+28,28,yôjinbô,7,4,6,2
+29,29,the general,7,3,10,10
+30,30,sherlock jr.,7,6,2,18
+31,31,logan,7,4,12,0
+32,32,rush,7,7,5,6
+33,33,ford v ferrari,7,7,5,6
+34,34,mad max: fury road,7,3,12,0
+35,35,how to train your dragon,3,8,4,4
+36,36,pirates of the caribbean: the curse of the black pearl,7,3,13,0
+37,37,blade runner,7,4,12,0
+38,38,the incredibles,3,8,4,4
+39,39,rocketry: the nambi effect,7,7,5,6
+40,42,interstellar,1,4,12,3
+41,44,the prestige,2,0,12,8
+42,45,back to the future,1,6,12,3
+43,49,wall·e,3,3,1,1
+44,52,eternal sunshine of the spotless mind,2,2,12,15
+45,55,it's such a beautiful day,3,6,5,4
+46,58,the thing,8,0,12,0
+47,61,the iron giant,3,8,4,4
+48,63,the martian,1,4,12,3
+49,64,guardians of the galaxy,7,3,10,10
+50,65,blade runner 2049,7,4,0,14
+51,66,her,2,2,12,15
+52,67,deadpool,7,3,10,10
+53,68,zack snyder's justice league,7,3,13,0
+54,69,dune: part one,7,3,5,5
+55,70,the avengers,7,3,12,0
+56,71,g.o.r.a.,1,6,12,3
+57,72,donnie darko,2,0,12,8
+58,73,twelve monkeys,0,9,6,17
+59,74,kin-dza-dza!,5,4,12,0
+60,75,thor: ragnarok,7,3,10,10
+61,76,arrival,2,0,12,8
+62,77,x-men: days of future past,7,3,12,0
+63,78,edge of tomorrow,7,3,12,0
+64,79,district 9,7,9,6,6
+65,80,star trek,7,3,12,0
+66,81,the dark knight,7,5,5,9
+67,83,schindler's list,6,4,9,10
+68,84,jai bhim,4,4,0,1
+69,87,goodfellas,6,5,5,9
+70,89,the green mile,4,4,13,11
+71,90,la vita è bella,5,4,2,18
+72,91,se7en,4,4,0,1
+73,92,the silence of the lambs,4,4,6,13
+74,94,it's a wonderful life,2,1,13,8
+75,95,gisaengchung,5,4,6,13
+76,96,the intouchables,6,6,5,9
+77,98,the departed,4,4,6,13
+78,99,the pianist,6,4,3,18
+79,101,the usual suspects,4,4,0,1
+80,103,the lion king,3,3,5,13
+81,104,hotaru no haka,3,4,14,11
+82,105,apocalypse now,2,0,14,8
+83,106,casablanca,2,2,14,15
+84,107,modern times,5,4,2,18
+85,108,city lights,5,4,2,18
+86,109,joker,4,4,6,13
+87,110,kimi no na wa.,3,4,13,11
+88,112,elvis,6,4,3,18
+89,114,house of gucci,6,5,5,9
+90,115,major,7,7,5,6
+91,117,the wolf of wall street,6,6,8,19
+92,118,jerry &amp; marge go large,6,6,5,9
+93,119,a call to spy,6,5,5,9
+94,120,thirteen lives,6,4,6,2
+95,121,oppenheimer,6,4,9,10
+96,122,rise,6,4,7,2
+97,123,legend,6,5,5,9
+98,124,bohemian rhapsody,6,4,3,18
+99,125,catch me if you can,6,5,5,9
+100,126,rocketman,6,4,11,10
+101,128,tombstone,6,4,9,10
+102,129,king richard,6,4,7,2
+103,130,hamilton,6,4,9,10
+104,131,the greatest showman,6,4,11,10
+105,132,braveheart,6,4,9,10
+106,133,lone survivor,7,7,5,6
+107,134,hacksaw ridge,6,4,9,10
+108,135,blonde,6,4,0,14
+109,136,born on the fourth of july,6,4,14,0
+110,137,yankee doodle dandy,6,4,1,14
+111,138,the buddy holly story,6,4,3,18
+112,139,the irishman,6,5,5,9
+113,141,the big short,6,6,5,9
+114,142,vice,6,6,5,9
+115,143,the imitation game,6,4,6,2
+116,144,the sound of music,6,4,1,14
+117,145,the fighter,7,7,5,6
+118,146,war dogs,6,6,8,19
+119,147,green book,6,6,5,9
+120,148,into the wild,1,7,5,4
+121,150,bergen,6,4,3,18
+122,151,the king,6,4,9,10
+123,153,hidden figures,6,4,9,10
+124,154,molly's game,6,5,5,9
+125,155,the blind side,6,4,7,2
+126,166,tengoku to jigoku,4,4,0,1
+127,167,witness for the prosecution,4,4,0,1
+128,169,reservoir dogs,4,4,6,13
+129,170,the sting,5,5,5,9
+130,171,double indemnity,4,4,15,11
+131,172,m - eine stadt sucht einen mörder,4,0,6,7
+132,174,no country for old men,4,4,6,13
+133,178,l.a. confidential,4,4,0,1
+134,179,rashômon,4,4,0,1
+135,180,"three billboards outside ebbing, missouri",5,5,5,9
+136,181,the grand budapest hotel,1,6,8,17
+137,182,spotlight,6,5,5,9
+138,183,prisoners,4,4,0,1
+139,184,salinui chueok,4,4,0,1
+140,186,in the name of the father,6,5,5,9
+141,188,sen to chihiro no kamikakushi,3,3,1,1
+142,195,psycho,8,0,6,12
+143,196,coco,3,3,10,15
+144,197,the lives of others,2,0,6,7
+145,202,vertigo,0,2,6,7
+146,205,el secreto de sus ojos,2,0,2,7
+147,206,the sixth sense,2,0,6,7
+148,209,chinatown,2,0,6,7
+149,211,gone girl,2,0,6,7
+150,213,harry potter and the deathly hallows: part 2,1,10,0,16
+151,215,the third man,9,0,6,12
+152,216,rebecca,2,11,0,16
